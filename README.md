@@ -9,7 +9,7 @@ VGG19 implemented in Keras
 * scikit-image
 * opencv-python
 * Matplotlib
-(Using `pip install` or `conda install` these libraries)
+(Using `pip install [lib]` or `conda install [lib]` these libraries)
 ## Usage:
 * Download the whole routine.
 * Run `Master.py` 
