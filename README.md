@@ -1,7 +1,7 @@
 # VGG19_Keras
 VGG19 implemented in Keras
 
-## Requirement:
+## Requirement(Using `pip install [lib]` or `conda install [lib]` these libraries):
 * Python 3.5 or higher version
 * Keras
 * Tensorflow
@@ -9,7 +9,7 @@ VGG19 implemented in Keras
 * scikit-image
 * opencv-python
 * Matplotlib
-(Using `pip install [lib]` or `conda install [lib]` these libraries)
+
 ## Usage:
 * Download the whole routine.
 * Run `Master.py` 
